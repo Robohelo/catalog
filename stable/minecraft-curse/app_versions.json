@@ -3,7 +3,7 @@
         "healthy": true,
         "supported": true,
         "healthy_error": null,
-        "location": "/home/runner/_work/catalog/catalog/stable/minecraft-java/9.0.12",
+        "location": "/home/runner/_work/catalog/catalog/stable/minecraft-curse/9.0.13",
         "last_update": "2024-05-29 12:35:14",
         "required_features": [
             "definitions/timezone",
@@ -12,7 +12,7 @@
             "definitions/interface"
         ],
         "human_version": "2024.5.0_9.0.12",
-        "version": "9.0.12",
+        "version": "9.0.13",
         "chart_metadata": {
             "annotations": {
                 "truecharts.org/category": "games",
